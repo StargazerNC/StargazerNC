@@ -2,6 +2,55 @@
     "markers": [
         {
             "pin": "blue",
+            "text": "Waypoint 1- Start System:  Meliae",
+            "x": -17.3125,
+            "y": 49.53125,
+            "z": -1.6875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 2- Start System:  Pru Euq WO-D b53-8",
+            "x": -256.34375,
+            "y": -5.15625,
+            "z": 1363.125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 3- Start System:  Eagle Sector IR-W d1-117 (Eagle's Landing)",
+            "x": -2054.09375,
+            "y": 85.71875,
+            "z": 6710.875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 4- Start System:  Eodgorsts AA-A b14-0",
+            "x": -1645.59375,
+            "y": 33.84375,
+            "z": 10770.5625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 5- Start System:  Floarps PI-B e2 (DSSA Sésame - EDO / Kingfisher Nebula)",
+            "x": -859.90625,
+            "y": -117.53125,
+            "z": 14426.34375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 6- Start System:  Voqooe BI-H d11-864 (DSSA CLB Voqooway)",
+            "x": -4770.75,
+            "y": -1508.1875,
+            "z": 17819.75
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 7- Start System:  Dryaa Flyuae AA-A c29-82",
+            "x": -2272.6875,
+            "y": -723.96875,
+            "z": 19390.84375
+        },
+        {
+            "pin": "blue",
             "text": "Waypoint 8- Start System:  Shrogea MH-V e2-1763 (Black in Green (Tourist Installation))",
             "x": 971.03125,
             "y": 613.21875,
