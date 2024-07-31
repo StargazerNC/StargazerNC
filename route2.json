@@ -1,340 +1,263 @@
 {
-    "markers" : [
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 0 - Start System:  Mainani",
-          "x" : 10.40625,
-          "y" : -219.8125,
-          "z" : -64.21875
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 1 - End System:  Qiedeau NA-L d9-74",
-          "x" : 44.0625,
-          "y" : -140.7185,
-          "z" : -5321.0625
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 2 - End System:  Eafots EU-R c4-1",
-          "x" : -5805.78125,
-          "y" : 129.875,
-          "z" : -5969.875
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 3 - End System:  Schafaae LP-H c10-1",
-          "x" : -11695.71875,
-          "y" : 191.71875,
-          "z" : -8274.09375
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 4a - End System:  Phae Aeb BK-I d9-22",
-          "x" : -15647.53125,
-          "y" : -2.84375,
-          "z" : -6599.53125
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 4b - End System:  Pria Eup TD-T d3-8",
-          "x" : -18829,
-          "y" : 84.875,
-          "z" : -535.90625
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 5 - End System:  Dehoae FL-W d2-0",
-          "x" : -15796.75,
-          "y" : -533.8125,
-          "z" : 9459.46875
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 6 - End System:  Floalk QQ-Q c20-2\nDSSA Cygni-Vanguard",
-          "x" : -16043.34375,
-          "y" : -562.40625,
-          "z" : 15207.375
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 7a - End System:  Eol Flyiae UG-S c18-0",
-          "x" : -20219.375,
-          "y" : -984.40625,
-          "z" : 17656.84375
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 7b - End System:  Byeeque ST-A b4-4\nDSSA Will's Haven",
-          "x" : -25007.28125,
-          "y" : -478.78125,
-          "z" : 24627.375
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 8a - End System:  Phooe Flaae GG-O c6-6",
-          "x" : -27790.40625,
-          "y" : 109.4375,
-          "z" : 23556.28125
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 8b - End System:  Hypi Fruia YO-P b19-1",
-          "x" : -29014.78125,
-          "y" : 50.5625,
-          "z" : 24971.59375
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 9a - End System:  Dryao Chrie CW-G b10-0",
-          "x" : -33863,
-          "y" : -2.9375,
-          "z" : 28598.65625
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 9b - End System:  Xothae MA-A d2\nDSSA Chrysaetos Refuge",
-          "x" : -36207.90625,
-          "y" : 22.5625,
-          "z" : 29671.40625
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 10 - End System:  Phoi Chrie FC-D d12-2",
-          "x" : -39305.75,
-          "y" : -3.5625,
-          "z" : 34540.90625
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 11a - End System:  Sphiesi HX-L d7-0\nErikson's Star",
-          "x" : -42213.8125,
-          "y" : -19.21875,
-          "z" : 35418.71875
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 11b - End System:  Flyeia Flyoae YH-V b8-0",
-          "x" : -38424.21875,
-          "y" : -121.0625,
-          "z" : 37520.34375
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 12a - End System:  Syroagaae MY-U b22-0",
-          "x" : -34685.5,
-          "y" : -124.03125,
-          "z" : 41658.3125
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 12b - End System:  Syroageau HG-D b46-0",
-          "x" : -33362.5,
-          "y" : -79.40625,
-          "z" : 42159.3125
-       },
-       {
-          "pin" : "blue",
-          "text" : "Waypoint 13 - End System:  Qoefae AH-S d5-0",
-          "x" : -26457.75,
-          "y" : -101.96875,
-          "z" : 42935.09375
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 14 - End System:  Prue Ble AK-C b18-0",
-          "x" : -21249.28125,
-          "y" : -262.21875,
-          "z" : 49253.15625
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 15 - End System:  Smootae SB-W c15-3",
-          "x" : -9184.78125,
-          "y" : 9.9375,
-          "z" : 52127.15625
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 16 - End System:  Cho Thua NL-C b40-0\nDSSA Eleanor",
-          "x" : -305.31250,
-          "y" : 2.56250,
-          "z" : 58686.43750
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 17a - End System:  Beagle Point\nDSSA Distant Worlds",
-          "x" : -1111.56250,
-          "y" : -134.21875,
-          "z" : 65269.75000
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 17b - End System:  Oevasy SG-Y d0\nSalome's Reach & Semotus Beacon",
-          "x" : -1502.15625,
-          "y" : -2.62500,
-          "z" : 65630.15625
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 17c - End System:  Hyia Eohn UX-B d1",
-          "x" : 1127.81250,
-          "y" : -440.96875,
-          "z" : 64260.8125
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 18a - End System:  Fleckaea EO-F d12-1",
-          "x" : 2821.09375,
-          "y" : -250.53125,
-          "z" : 63991.65625
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 18b - End System:  Fleckie LF-L d9-4",
-          "x" : 5135.625,
-          "y" : -59.46875,
-          "z" : 63787.21875
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 18c - End System:  Pyra Dryoae MG-I b57-0",
-          "x" : 8577.96875,
-          "y" : -50.65625,
-          "z" : 62884.78125
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 18d - End System:  Cheae Eur RD-K d8-1",
-          "x" : 10757.21875,
-          "y" : 35.03125,
-          "z" : 61119.56250
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 19 - End System:  Qautha GX-K d8-3",
-          "x" : 13117.25000,
-          "y" : 374.52125,
-          "z" : 56013.28125
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 20a - End System:  Prie Bre XX-O c20-0",
-          "x" : 12941.37500,
-          "y" : 347.34375,
-          "z" : 52307.96875
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 20b - End System:  Plua Briae LT-O c20-0",
-          "x" : 14695.75000,
-          "y" : 298.34375,
-          "z" : 51020.71875
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 21 - End System:  Hyiechou EP-A d2",
-          "x" : 19989.59375,
-          "y" : 272.78125,
-          "z" : 47629.43750
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 22 - End System:  Hypunoi BA-Z d2",
-          "x" : 23432.43750,
-          "y" : 363.15625,
-          "z" : 39991.43750
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 23a - End System:  Joorou NS-T d3-4",
-          "x" : 22158.96875,
-          "y" : 357.46875,
-          "z" : 38962.09375
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 23b - End System:  Hypi Broae GN-I d10-0",
-          "x" : 22409.68750,
-          "y" : 826.34375,
-          "z" : 35699.90625
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 24 - End System:  Oob Broae TV-Y b42-1",
-          "x" : 27568.09385,
-          "y" : 181.62500,
-          "z" : 30579.18750
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 25a - End System:  Oob Chruia WC-F b11-5",
-          "x" : 27908.81250,
-          "y" : 5.09375,
-          "z" : 27348.90625
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 25b - End System:  Phrausky QM-V d2-8",
-          "x" : 26508.12500,
-          "y" : -971.81250,
-          "z" : 20936.59375
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 26 - End System:  Floadaea FR-S c18-0",
-          "x" : 23931.62500,
-          "y" : -904.37500,
-          "z" : 15122.09375
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 27 - End System:  Flyue Phoe PJ-I c25-4",
-          "x" : 19189.46875,
-          "y" : -449.43750,
-          "z" : 10284.21875
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 28a - End System:  Prai Hypa MV-B d14-39",
-          "x" : 18045.43750,
-          "y" : -341.75000,
-          "z" : 9147.00000
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 28b - End System:  Blia Eurk HQ-G d10-78",
-          "x" : 14005.37500,
-          "y" : 46.40625,
-          "z" : 4998.12500
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 28c - End System:  Praea Eurl BL-P e5-0",
-          "x" : 8176.21875,
-          "y" : -1.75000,
-          "z" : 1211.18750
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 29a - End System:  Swoide GC-B d1-50",
-          "x" : 6879.03125,
-          "y" : -31.84375,
-          "z" : 338.18750
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 29b - End System:  Wregoe KJ-F c25-4",
-          "x" : 640.161,
-          "y" : 17.028,
-          "z" : 274.198
-       },
-       {
-            "pin" : "blue",
-          "text" : "Waypoint 29c - End System:  Svaratia",
-          "x" : 108.884,
-          "y" : -41.373,
-          "z" : 169.756
-       }
+    "markers": [
+        {
+            "pin": "blue",
+            "text": "Waypoint 8- Start System:  Shrogea MH-V e2-1763 (Black in Green (Tourist Installation))",
+            "x": 971.03125,
+            "y": 613.21875,
+            "z": 21307.3125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 9- Start System:  Dryoea Prao FH-S d5-3063",
+            "x": 3448.3125,
+            "y": -94.75,
+            "z": 21220.78125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 10- Start System:  Eorl Auwsy LX-Z c27-215",
+            "x": 4949.9375,
+            "y": 164,
+            "z": 20640.125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 11- Start System:  Shrogaae KK-A d2672",
+            "x": 4952.90625,
+            "y": 186.5,
+            "z": 20736.1875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 12- Start System:  Eotchofy AA-A h99",
+            "x": 5773,
+            "y": 1598.03125,
+            "z": 23416.03125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 13- Start System:  Cleeque LZ-Y c1-95",
+            "x": 4963.0625,
+            "y": 513.8125,
+            "z": 24618.84375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 14- Start System:  Eembaisk NS-R d5-2857 (Three Way Dance)",
+            "x": 3578.90625,
+            "y": 986.75,
+            "z": 30176.8125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 15- Start System:  Eimbaith LW-W e1-290 (Viridi Aqua)",
+            "x": -1421.71875,
+            "y": 1618.3125,
+            "z": 30063.0625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 16- Start System:  Stuemeae BA-A d955",
+            "x": 27.84375,
+            "y": -22.4375,
+            "z": 25894.59375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 17- Start System:  Sagittarius A*",
+            "x": 25.21875,
+            "y": -20.90625,
+            "z": 25899.96875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 18- Start System:  Dumbooe FQ-B c27-590",
+            "x": -11.3125,
+            "y": 153.4375,
+            "z": 23146.96875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 19- Start System:  Athaip WR-H d11-7577",
+            "x": 334.96875,
+            "y": -55.4375,
+            "z": 23014.3125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 20- Start System:  Great Annihilator (Great Annihilator Black Hole)",
+            "x": 354.84375,
+            "y": -42.4375,
+            "z": 22997.21875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 21- Start System:  Dryau Ausms KG-Y e3390 (DSSA Buurian Anchorage / The Dryau Awesomes)",
+            "x": -1523.75,
+            "y": 1340.6875,
+            "z": 20976.59375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 22- Start System:  Hypou Aoscs AA-A d4017",
+            "x": -3862.84375,
+            "y": -18.1875,
+            "z": 22048.34375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 23- Start System:  Schee Flyi DN-I d10-8604 (DSSA NECFC Huginn)",
+            "x": -4773.59375,
+            "y": -456.5625,
+            "z": 22859
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 24- Start System:  Dumboea AA-A c1630",
+            "x": -7713.84375,
+            "y": 11.25,
+            "z": 21993.4375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 25- Start System:  Colonia (Jaques Station / Colonia (System) / Animula Spires / The Mosta-Murdoch Raceway)",
+            "x": -9530.5,
+            "y": -910.28125,
+            "z": 19808.125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 26- Start System:  Dryaea Flee ME-G c24-563 (Clown Nebula)",
+            "x": -12346.5,
+            "y": 0,
+            "z": 19194.9375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 27- Start System:  Floalk QQ-Q c20-2 (DSSA [IGAU] Cygni-Vanguard)",
+            "x": -16043.34375,
+            "y": -562.40625,
+            "z": 15207.375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 28- Start System:  Floarph OY-Z d13-3 (Diplopia Nebula)",
+            "x": -13270.46875,
+            "y": -1092.46875,
+            "z": 15569.34375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 29- Start System:  Floaln NO-Z d13-0 (Purple Crown nebula)",
+            "x": -12461.75,
+            "y": -1291.3125,
+            "z": 15500.71875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 30- Start System:  Bya Ail NG-X d1-59 (Fortune Teller Nebula)",
+            "x": -11777.625,
+            "y": 322.4375,
+            "z": 15750.65625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 31- Start System:  Boesky AA-A g89 (Elmo's Highway)",
+            "x": -10255.90625,
+            "y": -689.40625,
+            "z": 15675.40625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 32- Start System:  Boelts QJ-Y d1-1149",
+            "x": -7538.34375,
+            "y": -452.15625,
+            "z": 15799.40625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 33- Start System:  Boewnst KS-S c20-959 (Polo Harbour / The Grand Formation / The Venetian Nebula)",
+            "x": -6195.46875,
+            "y": -140.28125,
+            "z": 16462.0625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 34- Start System:  Byaa Airm JM-W f1-744 (Ebony and Ivory)",
+            "x": -4856,
+            "y": 1313.3125,
+            "z": 16504.65625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 35- Start System:  Byaa Ain QA-J c11-144 (Clockwork Rings)",
+            "x": -4697.03125,
+            "y": 876.25,
+            "z": 16056.4375
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 36- Start System:  Floalt GO-G d11-9 (Amaethon Nebula)",
+            "x": -5004.78125,
+            "y": -551.6875,
+            "z": 15326.78125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 37- Start System:  Gru Hypue KS-T d3-31 (Gagarin Gate / Vostok-1 Nebula)",
+            "x": -4990.84375,
+            "y": -935.71875,
+            "z": 13387.15625
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 38- Start System:  Skaude AA-A h294 (Skaude (Collection of Wonders))",
+            "x": -5131.71875,
+            "y": -275.625,
+            "z": 10365.21875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 39- Start System:  Skaude AL-X e1-28 (Rusty Net)",
+            "x": -4708.625,
+            "y": -381.3125,
+            "z": 9571.75
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 40- Start System:  Traikeou BK-F b28-0",
+            "x": -7227.21875,
+            "y": 635.8125,
+            "z": 4670.5
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 41- Start System:  NGC 6820 Sector GW-W d1-0 (NGC 6820 Nebula & NGC 6823 Cluster)",
+            "x": -5572.84375,
+            "y": -11.65625,
+            "z": 3342.6875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 42- Start System:  Bubble Sector DL-Y d34",
+            "x": -6577.90625,
+            "y": 23.71875,
+            "z": -2694.53125
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 43- Start System:  Ring Sector NI-S b4-0",
+            "x": -1984.59375,
+            "y": 556.375,
+            "z": 999.875
+        },
+        {
+            "pin": "blue",
+            "text": "Waypoint 44- Start System:  Meliae",
+            "x": -17.3125,
+            "y": 49.53125,
+            "z": -1.6875
+        }
     ]
- }
+}
